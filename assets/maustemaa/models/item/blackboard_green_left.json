@@ -1,0 +1,69 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "maustemaa:item/blackboard_green",
+		"particle": "maustemaa:item/blackboard_green"
+	},
+	"elements": [
+		{
+			"from": [8, -15, 1],
+			"to": [9, 31, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -16, -16]},
+			"faces": {
+				"east": {"uv": [0, 0, 5, 15.33333], "texture": "#0"},
+				"west": {"uv": [11, 0, 16, 15.33333], "texture": "#0"}
+			}
+		},
+		{
+			"name": "rim_top",
+			"from": [7, 31, 0],
+			"to": [9, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 30, -16]},
+			"faces": {
+				"north": {"uv": [10.66667, 15.33333, 11, 16], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 15.33333, 5.33333, 15.66667], "texture": "#0"},
+				"west": {"uv": [10.66667, 15.33333, 16, 15.66667], "texture": "#0"},
+				"up": {"uv": [10.66667, 15.33333, 16, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [10.66667, 15.33333, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "rim_bottom",
+			"from": [6, -16, 0],
+			"to": [9, -15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, -17, -16]},
+			"faces": {
+				"north": {"uv": [10.66667, 15.33333, 11, 16], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 15.33333, 5.33333, 15.66667], "texture": "#0"},
+				"west": {"uv": [10.66667, 15.33333, 16, 15.66667], "texture": "#0"},
+				"up": {"uv": [10.66667, 15, 16, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [10.66667, 15.33333, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "edge",
+			"from": [7, -15, 0],
+			"to": [9, 31, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 0]},
+			"faces": {
+				"north": {"uv": [0.33333, 15.33333, 15.66667, 16], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0.33333, 15.33333, 15.66667, 15.66667], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0.33333, 15.33333, 15.66667, 16], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0.33333, 15.33333, 15.66667, 15.66667], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 0, 0.66667, 0.33333], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0.66667, 0.33333], "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "rim",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [1, 2, 3]
+		}
+	]
+}

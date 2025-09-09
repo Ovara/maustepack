@@ -1,0 +1,53 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "maustemaa:item/blackboard_green",
+		"particle": "maustemaa:item/blackboard_green"
+	},
+	"elements": [
+		{
+			"from": [8, -15, -16],
+			"to": [9, 31, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -16, -16]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 15.33333], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 15.33333], "texture": "#0"}
+			}
+		},
+		{
+			"name": "rim_top",
+			"from": [7, 31, -16],
+			"to": [9, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 30, -16]},
+			"faces": {
+				"east": {"uv": [0, 15.33333, 16, 15.66667], "texture": "#0"},
+				"west": {"uv": [0, 15.33333, 16, 15.66667], "texture": "#0"},
+				"up": {"uv": [0, 15.33333, 16, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 15.33333, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "rim_bottom",
+			"from": [6, -16, -16],
+			"to": [9, -15, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, -17, -16]},
+			"faces": {
+				"east": {"uv": [0, 15.66667, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 15.33333, 16, 15.66667], "texture": "#0"},
+				"up": {"uv": [0, 15, 16, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 15.33333, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "rim",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [1, 2]
+		}
+	]
+}
