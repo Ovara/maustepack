@@ -30,4 +30,4 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: maustepack-v${{ github.run_number }}
-          files: /tmp/maustepack-${{ github.run_number }}.zip
+          files: /tmp/maustepack.zip
