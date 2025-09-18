@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/admin.png",
+            "file": "maustemaa:font/admin.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
@@ -11,7 +11,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:font/moderator.png",
+            "file": "maustemaa:font/moderator.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
@@ -20,7 +20,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:font/builder.png",
+            "file": "maustemaa:font/builder.png",
             "ascent": 8,
 			"height": 9,
             "chars": [
@@ -29,7 +29,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:font/party.png",
+            "file": "maustemaa:font/party.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
@@ -38,7 +38,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:font/broadcast.png",
+            "file": "maustemaa:font/broadcast.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
@@ -47,7 +47,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:font/globe.png",
+            "file": "maustemaa:font/globe.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
