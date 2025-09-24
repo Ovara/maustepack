@@ -45,6 +45,15 @@
                 "\ue004"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/catlaugh_128x.png",
+            "ascent": 127,
+			"height": 128,
+            "chars": [
+                "\ue005"
+            ]
+        },
 		{
             "type": "bitmap",
             "file": "maustemaa:font/globe.png",
