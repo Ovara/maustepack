@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "maustemaa:font/smallcaps_corrected.png",
+            "file": "maustemaa:font/smallcaps.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
