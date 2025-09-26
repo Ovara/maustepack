@@ -26,7 +26,7 @@
         {
             "type": "bitmap",
             "file": "maustemaa:font/smallcaps_extras.png",
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\u00e5\u00e4\u00f6\u00c5\u00c4\u00d6"
             ]
