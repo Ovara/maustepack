@@ -2,47 +2,11 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "maustemaa:font/admin.png",
+            "file": "maustemaa:font/harmonia_h.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
                 "\ue000"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "maustemaa:font/moderator.png",
-            "ascent": 7,
-			"height": 8,
-            "chars": [
-                "\ue001"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "maustemaa:font/builder.png",
-            "ascent": 8,
-			"height": 9,
-            "chars": [
-                "\ue002"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "maustemaa:font/party.png",
-            "ascent": 7,
-			"height": 8,
-            "chars": [
-                "\ue003"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "maustemaa:font/broadcast.png",
-            "ascent": 7,
-			"height": 8,
-            "chars": [
-                "\ue004"
             ]
         },
         {
@@ -52,15 +16,6 @@
 			"height": 128,
             "chars": [
                 "\ue005"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "maustemaa:font/globe.png",
-            "ascent": 7,
-			"height": 8,
-            "chars": [
-                "\ue100"
             ]
         }
 	]
