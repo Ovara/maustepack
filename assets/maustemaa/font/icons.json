@@ -29,11 +29,65 @@
         },
         {
             "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h_8x.png",
+            "ascent": 15,
+			"height": 16,
+            "chars": [
+                "\ue010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h_16x.png",
+            "ascent": 15,
+			"height": 16,
+            "chars": [
+                "\ue011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h_32x.png",
+            "ascent": 15,
+			"height": 16,
+            "chars": [
+                "\ue012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h_8x.png",
+            "ascent": 31,
+			"height": 32,
+            "chars": [
+                "\ue020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h_16x.png",
+            "ascent": 31,
+			"height": 32,
+            "chars": [
+                "\ue021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h_32x.png",
+            "ascent": 31,
+			"height": 32,
+            "chars": [
+                "\ue022"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "maustemaa:font/icons/catlaugh_128x.png",
             "ascent": 127,
 			"height": 128,
             "chars": [
-                "\ue005"
+                "\ue100"
             ]
         }
 	]
