@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h.png",
+            "file": "maustemaa:font/icons/harmonia_h_8x.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
@@ -11,20 +11,20 @@
         },
         {
             "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h.png",
+            "file": "maustemaa:font/icons/harmonia_h_16x.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
-                "\ue0048"
+                "\ue001"
             ]
         },
         {
             "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h.png",
+            "file": "maustemaa:font/icons/harmonia_h_32x.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
-                "\ue068"
+                "\ue002"
             ]
         },
         {
