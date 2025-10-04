@@ -11,6 +11,24 @@
         },
         {
             "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h.png",
+            "ascent": 7,
+			"height": 8,
+            "chars": [
+                "\ue0048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/icons/harmonia_h.png",
+            "ascent": 7,
+			"height": 8,
+            "chars": [
+                "\ue068"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "maustemaa:font/icons/catlaugh_128x.png",
             "ascent": 127,
 			"height": 128,
