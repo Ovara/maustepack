@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_8x.png",
+            "file": "maustemaa:font/icons/harmonia_logo_8x.png",
             "ascent": 7,
 			"height": 8,
             "chars": [
@@ -11,74 +11,20 @@
         },
         {
             "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_16x.png",
-            "ascent": 7,
-			"height": 8,
-            "chars": [
-                "\ue001"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_32x.png",
-            "ascent": 7,
-			"height": 8,
-            "chars": [
-                "\ue002"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_8x.png",
+            "file": "maustemaa:font/icons/harmonia_logo_16x.png",
             "ascent": 15,
 			"height": 16,
             "chars": [
-                "\ue010"
+                "\ue000"
             ]
         },
         {
             "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_16x.png",
-            "ascent": 15,
-			"height": 16,
-            "chars": [
-                "\ue011"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_32x.png",
-            "ascent": 15,
-			"height": 16,
-            "chars": [
-                "\ue012"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_8x.png",
+            "file": "maustemaa:font/icons/harmonia_logo_32x.png",
             "ascent": 31,
 			"height": 32,
             "chars": [
-                "\ue020"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_16x.png",
-            "ascent": 31,
-			"height": 32,
-            "chars": [
-                "\ue021"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "maustemaa:font/icons/harmonia_h_32x.png",
-            "ascent": 31,
-			"height": 32,
-            "chars": [
-                "\ue022"
+                "\ue000"
             ]
         },
         {
