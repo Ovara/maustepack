@@ -6,7 +6,7 @@
             "ascent": 31,
 			"height": 32,
             "chars": [
-                "\ue001"
+                "\ue000"
             ]
         },
         {
@@ -15,7 +15,7 @@
             "ascent": 15,
 			"height": 16,
             "chars": [
-                "\ue002"
+                "\ue001"
             ]
         },
         {
@@ -24,7 +24,7 @@
             "ascent": 7,
 			"height": 8,
             "chars": [
-                "\ue003"
+                "\ue002"
             ]
         },
         {
