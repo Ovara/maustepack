@@ -43,6 +43,7 @@ void main() {
             case 0xE84F58:
             case 0xEAC864:
             case 0xCFCFCF:
+            case 0x5F5F5F:
                 transform.color = vec4(0);
             break;
         }
