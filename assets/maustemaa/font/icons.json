@@ -35,6 +35,15 @@
             "chars": [
                 "\ue100"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "maustemaa:font/icons/tab.png",
+            "ascent": 8,
+			"height": 9,
+            "chars": [
+                "\ue101"
+            ]
         }
 	]
 }
