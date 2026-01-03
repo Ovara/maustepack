@@ -1,10 +1,16 @@
 {
   "pack": {
-    "pack_format": 55,
     "description": "Maustemaa",
-    "supported_formats": {
-      "min_inclusive": 30,
-      "max_inclusive": 999
-    }
+    "min_format": 69,
+    "max_format": 75
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1_21_11",
+        "min_format": 75,
+        "max_format": 75
+      }
+    ]
   }
 }
