@@ -63,7 +63,7 @@ vec3 hsvToRgb(vec3 c) {
 }
 
 void applyRainbow(inout vec3 pos, inout vec4 col) {
-    float hue = 0.005 * (pos.x + pos.y) - normalizedGameTime() / 2;
+    float hue = 0.005 * (pos.x + pos.y) - normalizedGameTime() / 3;
     col.rgb = hsvToRgb(vec3(hue, 0.7, 1.0));
 }
 
